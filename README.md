@@ -1,6 +1,6 @@
 # python
 
-It is build all using python turtle graphics
+It is build all using python turtle graphics with animations
 
 Snap :
 
